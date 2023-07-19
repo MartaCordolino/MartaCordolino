@@ -1,4 +1,7 @@
 ### Olá! Eu sou Marta Cordolino 👋
 
-- 🔭 Trabalhando com elaboração de projetos sociais
-- 🌱 Estudando Desenvolvimento Web em Python
+Trabalhando com Gerenciamento de Projetos
+Estudando Desenvolvimento Web em Python
+Bacharela em Ciências Econômicas
+Especialista em Gestão Pública
+Trabalhou como Programadora (COBOL)
