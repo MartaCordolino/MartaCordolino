@@ -1,6 +1,5 @@
  # 👋 Olá! Seja bem-vindo(a) ao meu GitHub!
-
-## Eu sou Marta Cordolino 👋
+## Eu sou Marta Cordolino 
 
 ## 🎓 Formação Acadêmica
 - Pós-graduação em Engenharia de Software
